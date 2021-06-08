@@ -16,7 +16,7 @@ lazy-object-proxy==1.3.1
 line-bot-sdk==1.5.0
 MarkupSafe==1.0
 mccabe==0.6.1
-Pillow==5.0.0
+Pillow==8.2.0
 pylint==1.8.2
 pytz==2017.3
 qrcode==5.3
